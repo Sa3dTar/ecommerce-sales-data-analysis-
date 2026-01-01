@@ -1,2 +1,2 @@
 # ecommerce-sales-data-analysis-
-This project analyzes e-commerce sales data using Excel. It includes charts, pivot tables, and key metrics to help understand sales trends and top-performing products. Users can interact with the Excel file to explore the data.
+Analyzed e-commerce sales data in Excel to monitor yearly profits and profit margins, identify best-selling products, and extract key business insights. Created interactive charts, pivot tables, and summaries to support data-driven decision making.
